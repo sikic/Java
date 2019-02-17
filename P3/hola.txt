@@ -1,0 +1,7 @@
+This file stores a saved 2048 game
+			
+			
+				
+				
+
+0	0holaluis
